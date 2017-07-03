@@ -1,0 +1,19 @@
+{
+  "name": "getprimes",
+  "version": "1.0.0",
+  "description": "A function that generates prime numbers",
+  "main": "app/prime.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "Olusola Oseni",
+  "license": "ISC",
+  "keywords": [
+    "TDD",
+    "JavaScript"
+  ],
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
